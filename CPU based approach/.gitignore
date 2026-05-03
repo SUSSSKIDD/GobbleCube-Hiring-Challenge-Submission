@@ -1,0 +1,33 @@
+# Data files — large, downloaded via data/download_data.py
+data/train.parquet
+data/dev.parquet
+data/sample_1M.parquet
+data/raw/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+.history
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temp
+*.log
+*.tmp

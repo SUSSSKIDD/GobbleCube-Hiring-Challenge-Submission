@@ -1,0 +1,5 @@
+numpy<2
+pandas
+torch
+xgboost>=2.0
+lightgbm>=4.0
